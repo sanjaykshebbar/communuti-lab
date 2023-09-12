@@ -1,0 +1,22 @@
+Set Up Your Project Structure:
+
+Create a project folder and organize it as follows:
+
+
+
+
+- project-folder/
+  - index.html
+  - page2.html
+  - page3.html
+  - page4.html
+  - css/
+    - styles.css
+  - js/
+    - script.js
+  - data/
+    - computers.json
+- images/
+  - computer1.jpg
+  - computer2.jpg
+  - ...
